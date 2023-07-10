@@ -1,0 +1,9 @@
+skill,name,require_target,mp_cost,sp_cost,belongs_to
+WhiskerGuard,Whisker Guard,no,10,0,Tank
+ClawSwipe,Claw Swipe,yes,5,2,Tank
+IllusionaryAura,Illusionary Aura,yes,15,5,MirrorMage
+ReflectiveShield,"Reflective Shield",no,20,0,MirrorMage
+HealingPurr,Healing Purr,no,8,0,Healer
+LuckyCharm,Luck Charm,no,12,0,Healer
+PurrfectStrike,"Purrfect Strike",yes,15,5,Assassin
+CripplingStrike,Crippling Strike,no,12,3,Assassin

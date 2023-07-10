@@ -1,0 +1,5 @@
+job,HP,AP,DP,SP,MP,Luck
+Tank,150,8,20,4,5,5
+MirrorMage,100,6,5,8,20,30
+Healer,120,4,8,6,25,12
+Assassin,80,10,3,10,50,10
